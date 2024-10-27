@@ -13,3 +13,11 @@
     let str = "Hello";
     str.charCodeAt(1); // 101 (Unicode for 'e')
     ```
+### 3. `concat()`
+- **Purpose**: Combines two or more strings into one.
+- **Example**:
+    ```js
+    let str1 = "Hello";
+    let str2 = "World";
+    str1.concat(" ", str2); // "Hello World"
+    ```
