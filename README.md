@@ -21,3 +21,11 @@
     let str2 = "World";
     str1.concat(" ", str2); // "Hello World"
     ```
+### 4. `includes()`
+- **Purpose**: Determines whether one string contains another substring.
+- **Returns**: `true` or `false`.
+- **Example**:
+    ```js
+    let str = "Hello World";
+    str.includes("World"); // true
+    ```
