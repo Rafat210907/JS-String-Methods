@@ -29,3 +29,11 @@
     let str = "Hello World";
     str.includes("World"); // true
     ```
+
+### 5. `endsWith()`
+- **Purpose**: Determines whether a string ends with a specified substring.
+- **Example**:
+    ```js
+    let str = "Hello World";
+    str.endsWith("World"); // true
+    ```
