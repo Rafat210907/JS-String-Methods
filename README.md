@@ -37,3 +37,10 @@
     let str = "Hello World";
     str.endsWith("World"); // true
     ```
+### 6. `indexOf()`
+- **Purpose**: Returns the index of the first occurrence of a specified substring, or `-1` if not found.
+- **Example**:
+    ```js
+    let str = "Hello World";
+    str.indexOf("World"); // 6
+    ```
